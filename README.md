@@ -1,4 +1,5 @@
 Angular Basics Repository
+
 Welcome to the Angular Basics Repository! This repository contains simple programs and examples to help you understand and get started with Angular.
 
 Table of Contents
